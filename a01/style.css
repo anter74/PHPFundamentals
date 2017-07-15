@@ -1,0 +1,17 @@
+
+body {
+    background: #161a28;
+    font-family:  sans-serif;
+    font-size: large;
+    /* IE workaround for centering bodyContainer */
+    text-align: center;
+}
+
+.bodyContainer{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px #a5713b solid;
+    text-align: center;
+    background: #b6b2b7;
+    padding: 20px;
+}
